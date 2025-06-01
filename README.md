@@ -1,4 +1,4 @@
-# Zola
+# Zola fork
 
 [zola.chat](https://zola.chat)
 
